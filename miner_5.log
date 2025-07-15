@@ -1,0 +1,21 @@
+
+         **********  cpuminer-opt 25.5  ********** 
+     A CPU miner with multi algo support and optimized for CPUs
+     with AVX512, SHA, AES and NEON extensions by JayDDee.
+     BTC donation address: 12tdvfF7KmAsihBXQXynT6E6th2c2pByTT
+
+[2025-07-15 20:48:42] Scrypt paramaters: N= 1024, R= 1[0m
+[2025-07-15 20:48:42] Throughput 4/thr, Buffer 1024 iB/thr, Total 1024 iB
+[0m
+CPU: ARM 64 bit CPU
+SW built on Jul 15 2025 with CLANG-20.1.7 Linux
+CPU features:        NEON  AES SHA256
+SW features:   armv8 NEON
+[2025-07-15 20:48:42] CPU affinity [!!!!!!!!][0m
+[2025-07-15 20:48:42] 1 of 8 miner threads started using 'scrypt' algorithm[0m
+[2025-07-15 20:48:42][36m Stratum connect stratum+tcp://stratum.pool.aegisum.com:2922[0m
+[2025-07-15 20:48:43] Stratum extranonce1 0x81002dd5, extranonce2 size 4[0m
+[2025-07-15 20:48:44][36m Stratum connection established[0m
+[2025-07-15 20:48:44][01;37m CPU temp: curr 0 C max 0, Freq: 1.800/1.850 GHz[0m
+[2025-07-15 20:49:02][36m New Stratum Diff 65536, Block 40195, Tx 2, Job 5ee4[0m
+                      Diff: Net 48225, Stratum 65536, Target 1[0m
